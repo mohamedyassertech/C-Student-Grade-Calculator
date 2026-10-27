@@ -26,6 +26,13 @@ This is a beginner-level C++ console application developed as a first programmin
    - `average >= 70` ➔ **Grade is C**
    - `average >= 60` ➔ **Grade is D**
    - Otherwise ➔ **Grade is F**
+     
+<img width="1833" height="928" alt="Assignment 2" src="https://github.com/user-attachments/assets/bd814944-22f6-4149-a70e-86eff5566edf" />
+
+
+
+https://github.com/user-attachments/assets/32a8f361-7b85-48a0-b365-a42e49eba579
+
 
 ---
 
